@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "870276183804",
+    "project_id": "teaching-flutter-crud",
+    "storage_bucket": "teaching-flutter-crud.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870276183804:android:c7d63b63a2942a6aa50979",
+        "android_client_info": {
+          "package_name": "com.example.teaching_flutter_crud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0zsFJcKNz4lQaA2nDx5e9yunPo9KRy7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
